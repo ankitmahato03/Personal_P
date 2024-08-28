@@ -8,9 +8,7 @@ function Type() {
         strings: [
           "Software Developer",
           "MERN Stack Developer",
-          "BlockChain Developer",
-          ".NET Developer",
-          "Quick Learner"
+          "Quick Learner",
         ],
         autoStart: true,
         loop: true,
