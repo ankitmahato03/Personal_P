@@ -19,6 +19,7 @@ import {
   SiBootstrap,
   SiDocker,
   SiRedux,
+  SiPostgresql,
   SiC,
 } from "react-icons/si";
 
@@ -63,6 +64,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiFirebase />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiPostgresql />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiMysql />
