@@ -5,7 +5,7 @@ import Particle from "../Particle";
 import emotion from "../../Assets/Projects/emotion.png";
 import editor from "../../Assets/Projects/codeEditor.png";
 
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import bitsOfCode from "../../Assets/Projects/realestate.png";
 import one from "../../Assets/Projects/one.jpeg";
 import kumar from "../../Assets/Projects/kumar.png";
 
@@ -55,6 +55,16 @@ function Projects() {
               title="Online Course Selling Platform Full Stack"
               description="This is Online Course providing Platfrom where student can buy course from There and learn .Teacher can add his course after being a member of this Platfrom.I also implement Payment integration using Razor Pay Subscription Process.I Made it Using Mern Stack and Chakra UI"
               //ghLink="https://github.com/Arnab012/Online-Course-providing-Platform"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={bitsOfCode}
+              isBlog={false}
+              title="Realestate Website static"
+              description="I've developed a static website for a real estate project, designed to showcase properties with a clean and professional layout. The site features responsive design, ensuring a seamless experience on all devices. It's built with modern web technologies, offering quick loading times and easy navigation. The website effectively highlights property listings, includes detailed descriptions, and integrates high-quality images to attract potential buyers. "
+              demoLink="https://realstate-one-rosy.vercel.app/"
             />
           </Col>
 
