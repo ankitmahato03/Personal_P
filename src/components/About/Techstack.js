@@ -13,11 +13,9 @@ import {
 import {
   SiFirebase,
   SiMysql,
-  SiMicrosoftsqlserver,
   SiExpress,
   SiTypescript,
   SiTailwindcss,
-  SiMaterialdesign,
   SiBootstrap,
   SiDocker,
   SiRedux,
@@ -69,12 +67,6 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <SiMysql />
       </Col>{" "}
-      <Col xs={4} md={2} className="tech-icons">
-        <SiMicrosoftsqlserver />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiMaterialdesign />
-      </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiTailwindcss />
       </Col>
