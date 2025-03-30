@@ -30,7 +30,7 @@ function Home2() {
               <i>
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
-                <b className="purple">Digital Markting</b>
+                <b className="purple">Cloud Services</b>
               </i>
               <br />
               <br />
@@ -41,7 +41,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js </b>
+                <b className="purple"> React.js , Next.js</b>
               </i>
             </p>
           </Col>
