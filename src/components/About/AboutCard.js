@@ -11,14 +11,13 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Ankit Mahato</span>
             -from <span className="purple"> Kolkata, India.</span>
             <br />
-            "I recently completed my B.Tech in Information Technology from
-            Maulana Abul Kalam Azad University of Technology."
+            "Currently, i am working as a Devops Engineer Intern  at Adani Ai Labs."
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight />Devloping Web Applications
             </li>
             <li className="about-activity">
               <ImPointRight /> Gathering Knowldge About Stockmarket{" "}
